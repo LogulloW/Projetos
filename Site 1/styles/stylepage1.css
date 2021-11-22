@@ -1,0 +1,282 @@
+
+/* link que ainda não foi visitado */
+a:link {
+   color: white;
+   text-decoration:none;
+}
+
+/* link que foi visitado */
+a:visited {
+    color: white;
+}
+
+/* mouse over */
+a:hover {
+    color: #000000;
+}
+
+/* link selecionado */
+a:active {
+    color: white;
+}
+
+
+/*Head NARUTO*/
+.headsite {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+        display: block;
+}
+
+/* Corpo do site*/
+body {
+    background-image: url('../jpg/back2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Menu Horizontal*/
+#menu ul {
+    padding:0px;
+    margin:10px;
+    background-color:#EDEDED;
+    list-style:none;
+    text-align: center;
+}
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    padding: 4px 30px;
+    display: inline-block;
+
+ /* visual do link */
+    background-color: white;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+#menu a img {
+	position: absolute;
+	margin: 1px 0 0 -20px;
+}
+
+/*Menu Esquerda*/
+
+
+.leftbar {
+	width: 110px;
+	list-style: none;
+	line-height: 1.5;
+	float: left;
+}
+.leftbar a {
+	display: block;
+	text-align: -webkit-match-parent-center;
+	padding: 20px 50px;
+	transition: all 0.3s ease;
+	color: ##ff4d4d;
+	font-size: 30px;
+	background-image: url(../png/minato.png);
+	background-size: 205px 85px;
+    background-position: top;
+
+}
+
+.leftbar a:hover {
+  background-color: #000;
+  text-shadow: 1px 1px 0px #000;
+
+}
+.leftbar a img {
+	position: absolute;
+	margin: 6px 0 0 -51px;
+}
+.leftbar b {
+	-webkit-text-stroke-width: 1px; /* largura da borda */
+    -webkit-text-stroke-color: #f2f2f2; /* cor da borda */
+}
+
+.leftbar ul li {
+position: relative;
+}
+.left ul {
+padding: 0;
+list-style: none;
+width: 150px;
+}
+
+/*Menu Direita*/
+
+
+.rightbar {
+	width: 110px;
+	list-style: none;
+	line-height: 1.5;
+	float: right;
+}
+
+.rightbar a {
+	display: block;
+	text-align: -webkit-match-parent-center;
+	padding: 20px 50px;
+	transition: all 0.3s ease;
+	color: ##ff4d4d;
+	font-size: 30px;
+	background-image: url(../png/minato.png);
+	background-size: 205px 85px;
+    background-position: top;
+
+}
+
+.rightbar a:hover {
+  background-color: #000;
+  text-shadow: 1px 1px 0px #000;
+
+}
+.rightbar a img {
+	position: absolute;
+	margin: 6px 0 0 -51px;
+}
+
+.rightbar b {
+	-webkit-text-stroke-width: 1px; /* largura da borda */
+    -webkit-text-stroke-color: #f2f2f2; /* cor da borda */
+}
+.rightbar ul li {
+position: relative;
+}
+.rightbar ul {
+padding: 0px;
+list-style: none;
+width: 150px;
+}
+
+/*Meio do Site*/
+
+.centersite {
+	color: white;
+	background-image: url(../png/centerwall.png);
+	padding-right: 250px;
+	padding-bottom: 300px auto;
+	padding-left: 250px;
+ background-clip: content-box ;
+}
+
+.centersite h2 {
+	color: white;
+  text-shadow: 2px 2px 4px red;
+  text-align: center;
+	
+}
+/*Drop Menus*/
+
+	/*Menu 1*/
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown1 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content1 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content1 a:hover {background-color: #f1f1f1}
+
+.dropdown1:hover .dropdown-content1 {
+  display: block;
+}
+
+.dropdown1:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+	/*Menu 2*/
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content2 a:hover {background-color: #f1f1f1}
+
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+
+.dropdown2:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.glow {
+	text-align: center;
+  font-size: 80px;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}

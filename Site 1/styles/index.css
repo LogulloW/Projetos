@@ -1,0 +1,52 @@
+
+/* link que ainda não foi visitado */
+a:link {
+   color: white;
+   text-decoration:none;
+}
+
+/* link que foi visitado */
+a:visited {
+    color: white;
+}
+
+/* mouse over */
+a:hover {
+    color: #000000;
+}
+
+/* link selecionado */
+a:active {
+    color: white;
+}
+
+/* Corpo do site*/
+body {
+    background-image: url('../png/indexwall.png');
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+}
+
+/* Título */
+.title {
+    border: none;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+div.bode {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+div.box {
+  width: 310px;
+  display: inline-block;
+}
+span.legend {
+  color: white;
+  text-align: center;
+}

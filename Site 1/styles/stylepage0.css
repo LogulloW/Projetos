@@ -1,0 +1,104 @@
+
+/* link que ainda não foi visitado */
+a:link {
+   color: white;
+   text-decoration:none;
+}
+
+/* link que foi visitado */
+a:visited {
+    color: white;
+}
+
+/* mouse over */
+a:hover {
+    color: #000000;
+}
+
+/* link selecionado */
+a:active {
+    color: white;
+}
+
+/* Corpo do site*/
+body {
+    background-image: url('../jpg/back1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Título */
+.title {
+    background-color: black;
+    border: none;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+/*Barras do site*/
+.persons {
+    background-color: black;
+    border: none;
+    color: white;
+    margin: 20px;
+    padding: 20px 20px;
+    font-size: 16px;
+    -webkit-transition: all 0.8s ease;
+    -o-transition: all 0.8s ease;
+    transition: all 0.8s ease;
+    position: relative;
+    font-size: 12px;
+    font-weight: 700;
+    font-color: white;
+    text-align: center;
+    list-style-type: none;
+}
+
+.persons li {
+    background-color: black;
+    border: none;
+    color: white;
+    margin: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    -webkit-transition: all 0.8s ease;
+    -o-transition: all 0.8s ease;
+    transition: all 0.8s ease;
+    position: relative;
+    font-weight: 700;
+    font-color: white;
+    height: 30px;
+    text-align: center;
+    list-style-type: none;
+
+}
+
+.persons li:hover {
+    background-color: blue;
+}
+
+
+/*Botão*/
+.input1 {
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    cursor: pointer;
+    margin-right: auto;
+}
+
+.input1:hover {
+    background-color: red;
+}
+
+li {
+    list-style: none;
+}

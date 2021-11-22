@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"gr",
+				"inline-grid\tdisplay"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"lef",
+				"leftbar"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"a",
+				"auto\tbackground-size"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"repea",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"demo",
+				"demodelo"
+			],
+			[
+				"sho",
+				"showInputDialog"
+			],
+			[
+				"JO",
+				"JOptionPane"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/styles/orsestyle.css",
+		"/C/xampp/htdocs/pages/Suporte.php",
+		"/C/xampp/htdocs/pages/Orsegups.php",
+		"/C/xampp/htdocs/pages/Forum.php",
+		"/C/xampp/htdocs/pages/Downloads.php",
+		"/C/xampp/htdocs/pages/Account.php",
+		"/C/xampp/htdocs/js/jspage1.js",
+		"/C/xampp/htdocs/styles/stylepage1.css",
+		"/C/xampp/htdocs/pages/page1.php",
+		"/C/xampp/htdocs/js/jspage0.js",
+		"/C/xampp/htdocs/styles/stylepage0.css",
+		"/C/xampp/htdocs/pages/page0.php",
+		"/C/xampp/htdocs/js/jsindex.js",
+		"/C/xampp/htdocs/styles/index.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/pages/PROJETOsexta/instancias.php",
+		"/C/xampp/htdocs/pages/PROJETOsexta/gatuno.php",
+		"/C/xampp/htdocs/pages/PROJETOsexta/mercador.php",
+		"/C/xampp/htdocs/pages/PROJETOsexta/mago.php",
+		"/C/xampp/htdocs/pages/PROJETOsexta/novico.php",
+		"/C/xampp/htdocs/pages/PROJETOsexta/arqueiro.php",
+		"/C/xampp/htdocs/js/jssext.js",
+		"/C/xampp/htdocs/pages/PROJETOsexta/espadachim.php",
+		"/C/xampp/htdocs/pages/PROJETOsexta/builds.php",
+		"/C/xampp/htdocs/styles/stylesexta.css",
+		"/C/xampp/htdocs/pages/sexta.php",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.751/index.php",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.483/menu.js",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.916/folha_estilo.css",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.922/folha_estilo2.css",
+		"/C/xampp/htdocs/styles/styleini.css",
+		"/C/xampp/htdocs/styles/styleindex.css",
+		"/C/xampp/htdocs/styleindex.css",
+		"/C/Users/A4print/Desktop/page0.php",
+		"/C/xampp/htdocs/page0.php",
+		"/C/xampp/htdocs/will.css",
+		"/C/xampp/htdocs/css/page0.css",
+		"/C/xampp/htdocs/logullo.css",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.631/menu.js",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.394/folha_estilo2.css",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.394/folha_estilo.css",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.116/index.php",
+		"/C/alg1/Trabalho2.java",
+		"/C/xampp/htdocs/container.css",
+		"/C/alg1/Leticia.java",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.876/Exercicio19.java",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.929/Exercicio21.java",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.322/Exercicio20.java",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.213/Exercicio22.java",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.242/Exercicio24.java",
+		"/C/Users/A4print/AppData/Local/Temp/Rar$DRa0.954/Exercicio2.java"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Account.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

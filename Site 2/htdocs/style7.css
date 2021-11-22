@@ -1,0 +1,32 @@
+/* Documento CSS*/
+
+* {
+	margin:0;
+	padding:0;
+
+}
+
+#div1 {
+	position:absolute;
+	width:400px;
+	height:400px;
+	background-color:#ff0000;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	box-shadow:2px 2px 2px #cccccc;
+	z-index:2;
+}
+
+#div2 {
+	position:absolute;
+	width:400px;
+	height:400px;
+	background-color:#00ff00;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	box-shadow:2px 2px 2px #cccccc;
+	z-index:1;
+
+}
